@@ -40,6 +40,10 @@ Shfaq tabelën fillestare permes funksionit dispalyBoard
 
 Lexon zgjedhjen e lojtarit nga tastiera.
 
+
+
+![image alt](https://github.com/JehonaNimanaj/GITHUBB-PROJECT/blob/a0d878911c208ba193a0cfa5c705d5b581bde02f/Screenshot%202026-01-03%20213833.png)
+
 Permes if-it kontrollon vlefshmërinë e lëvizjes,
 
 pas çdo lëvizjeje kontrollon për fitore ose barazim.
