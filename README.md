@@ -13,6 +13,7 @@ c) Funksioni switchPlayer per te ndërruar lojtarin aktiv pas çdo lëvizjeje.
 (Nëse lojtari është X, kalon në O dhe anasjelltas).
 
 d) Funksioni makeMove
+
 Pranon një numër nga 1 deri në 9.
 
 Llogarit rreshtin dhe kolonën përkatëse.
