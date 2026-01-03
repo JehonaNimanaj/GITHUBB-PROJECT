@@ -29,7 +29,5 @@ g) Funksioni main()
 Shfaq tabelën fillestare.
 Lexon zgjedhjen e lojtarit nga tastiera.
 Kontrollon vlefshmërinë e lëvizjes.
-
 Pas çdo lëvizjeje kontrollon për fitore ose barazim.
-
 Ndërron lojtarin derisa loja të përfundojë
