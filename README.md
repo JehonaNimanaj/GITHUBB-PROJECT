@@ -1,10 +1,13 @@
 # Detyra
 
 Të krijohet një program në gjuhën programuese C++ i cili implementon lojën klasike Tic Tac Toe, duke përdorur funksione të ndara për menaxhimin e tabelës, lojtarëve dhe logjikës së fitores, sipas kërkesave të mëposhtme:
+
 a) Variablat globale
 board[3][3]: Matrica që përfaqëson tabelën e lojës me pozicione nga 1 deri në 9.
 currentPlayer: Variabla që ruan lojtarin aktiv ('X' ose 'O').
+
 b) Funksioni displayBoard()per te shfaqur tabelën aktuale në ekran në formatin vizual 3x3 duke perdorur edhe  ndarësit | dhe ---+---+--- për ta bërë tabelën më të lexueshm
+
 c) Funksioni switchPlayer() per te ndërruar lojtarin aktiv pas çdo lëvizjeje.
 (Nëse lojtari është X, kalon në O dhe anasjelltas).
 
