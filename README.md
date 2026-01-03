@@ -23,16 +23,23 @@ Kthen true nëse lëvizja është e vlefshme, përndryshe false.
 
 e) Funksioni checkWin
 Kontrollon nëse lojtari aktiv ka fituar lojën.
+
 Verifikon rreshtat, kolonat dhe diagonalet për 3 simbole të njëjta.
 
 f) Funksioni checkDraw
 
 Kontrollon nëse të gjitha pozicionet janë mbushur pa fitues.
+
 Kthen true nëse loja ka përfunduar në barazim.
 
 g) Funksioni main
+
 Shfaq tabelën fillestare.
+
 Lexon zgjedhjen e lojtarit nga tastiera.
+
 Kontrollon vlefshmërinë e lëvizjes.
+
 Pas çdo lëvizjeje kontrollon për fitore ose barazim.
+
 Ndërron lojtarin derisa loja të përfundojë
