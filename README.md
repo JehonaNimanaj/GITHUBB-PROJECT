@@ -36,12 +36,12 @@ Kthen true nëse loja ka përfunduar në barazim.
 
 g) Funksioni main
 
-Shfaq tabelën fillestare.
+Shfaq tabelën fillestare permes funksionit dispalyBoard
 
 Lexon zgjedhjen e lojtarit nga tastiera.
 
-Kontrollon vlefshmërinë e lëvizjes.
+Permes if-it kontrollon vlefshmërinë e lëvizjes,
 
-Pas çdo lëvizjeje kontrollon për fitore ose barazim.
+pas çdo lëvizjeje kontrollon për fitore ose barazim.
 
-Ndërron lojtarin derisa loja të përfundojë
+Duke thirrur funksionin swichPlayerndërron lojtarin derisa loja të përfundojë.
