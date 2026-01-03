@@ -23,6 +23,7 @@ Vendos simbolin e lojtarit në pozicionin e zgjedhur nëse është i lirë.
 Kthen true nëse lëvizja është e vlefshme, përndryshe false.
 
 e) Funksioni checkWin
+
 Kontrollon nëse lojtari aktiv ka fituar lojën.
 
 Verifikon rreshtat, kolonat dhe diagonalet për 3 simbole të njëjta.
